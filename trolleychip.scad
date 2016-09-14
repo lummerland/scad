@@ -1,3 +1,5 @@
+// 3d text only works in version 2015.3 and later.
+
 firstPart = "//SEIBERT";
 secondPart = "/MEDIA";
 font = "DejaVu Sans Condensed";
